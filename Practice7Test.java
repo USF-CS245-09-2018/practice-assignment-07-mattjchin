@@ -1,10 +1,7 @@
+package Lesson7;
 
 public class Practice7Test {
-	
-	
-	public Practice7Test() {
-	}
-	
+
 	protected boolean emptyInitialTest() {
 		try {
 			List list = new ArrayList();
